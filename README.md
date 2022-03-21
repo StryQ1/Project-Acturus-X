@@ -7,3 +7,7 @@ You can fund the Acturus X project here:
 https://www.patreon.com/stryq                 
 https://www.patreon.com/astra_arhive                 
 Or in "sponsors" section down below.
+
+Also join our discord server:                 
+https://discord.gg/CWqBDEvf
+
