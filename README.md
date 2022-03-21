@@ -21,3 +21,9 @@ https://discord.gg/VXkyqJ8gUM
 Not done yet
 ```
 
+## Plugins
+
+- DDoS Tool by Rolle
+- PyMC by StryQ
+- more comming soon
+
