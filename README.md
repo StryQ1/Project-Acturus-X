@@ -9,5 +9,5 @@ https://www.patreon.com/astra_arhive
 Or in "sponsors" section down below.
 
 Also join our discord server:                 
-https://discord.gg/CWqBDEvf
+https://discord.gg/VXkyqJ8gUM
 
