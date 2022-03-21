@@ -11,6 +11,7 @@ root = tk.Tk()
 
 # Window setup
 root.title("Acturus X")
+root.iconbitmap("imgs/icon.ico")
 
 # Main app
 canvas = tk.Canvas(root, height=500, width=700, bg="black")
