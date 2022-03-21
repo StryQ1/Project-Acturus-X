@@ -1,10 +1,18 @@
 
+# App coded in python by StryQ And STEY Team.
+
+# Imports
 import tkinter as tk
 
+# Values
 mlbl = "Acturus X"
 
 root = tk.Tk()
 
+# Window setup
+root.title("Acturus X")
+
+# Main app
 canvas = tk.Canvas(root, height=500, width=700, bg="black")
 canvas.pack()
 
