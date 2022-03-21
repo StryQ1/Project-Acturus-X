@@ -1,7 +1,7 @@
 # Project Acturus X
 
 Project Acturus X is a game/hack launcher.
-All games are developed by Xnet games.
+All games are developed by [Xnet games](https:://xnet.com).
 
 ## Funding
 
