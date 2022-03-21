@@ -3,6 +3,7 @@
 
 # Imports
 import tkinter as tk
+from dark_title_bar import *
 
 # Values
 mlbl = "Acturus X"
@@ -10,6 +11,7 @@ mlbl = "Acturus X"
 root = tk.Tk()
 
 # Window setup
+dark_title_bar(root)
 root.title("Acturus X")
 root.iconbitmap("imgs/icon.ico")
 
