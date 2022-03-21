@@ -3,21 +3,21 @@
 Project Acturus X is a game/hack launcher.
 All games are developed by Xnet games.
 
-# Funding
+## Funding
 
 You can fund the Acturus X project here:
 https://www.patreon.com/stryq                 
 https://www.patreon.com/astra_arhive                 
 Or in "sponsors" section down below.
 
-# Discord server
+## Discord server
 
 Also join our discord server:                 
 https://discord.gg/VXkyqJ8gUM            
 
-# Installation
+## Installation
 
-```bash
+```python
 Not done yet
 ```
 
