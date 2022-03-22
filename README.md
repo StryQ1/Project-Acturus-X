@@ -1,6 +1,6 @@
 # Project Acturus X
 
-Project Acturus X is a game/hack launcher.
+Project Acturus X is a hack launcher.
 
 ## Funding
 
