@@ -4,9 +4,9 @@ Project Acturus X is a game/hack launcher.
 
 ## Funding
 
-You can fund the Acturus X project here:
-https://www.patreon.com/stryq                 
-https://www.patreon.com/astra_arhive                 
+You can fund the Acturus X project here:                                                   
+https://www.patreon.com/stryq                                                                                         
+https://www.patreon.com/astra_arhive                                                         
 Or in "sponsors" section down below.
 
 ## Discord server
