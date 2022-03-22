@@ -1,7 +1,6 @@
 # Project Acturus X
 
 Project Acturus X is a game/hack launcher.
-All games are developed by Xnet games.
 
 ## Funding
 
@@ -20,6 +19,10 @@ https://discord.gg/VXkyqJ8gUM
 ```python
 Not done yet
 ```
+
+## Disclamer
+
+StryQ is not resposnible for any damage caused by project acturus x.
 
 ## Plugins
 
