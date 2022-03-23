@@ -35,5 +35,7 @@ StryQ is not resposnible for any damage caused by project acturus x.
 - PyMC by StryQ
 - ZpyGame by StryQ
   (bugfixes for ZpyGame coming soon)
+- PlatPyGame
+- PyShtr
 - more comming soon
 
