@@ -30,7 +30,8 @@ StryQ is not resposnible for any damage caused by project acturus x.
 
 ## Plugins
 
-- DDoS Tool by Rolle
+- DDoS Tool by Mrdee
 - PyMC by StryQ
+- ZpyGame by StryQ
 - more comming soon
 
