@@ -29,6 +29,8 @@ root.iconbitmap("imgs/icon.ico")
 # Main app
 canvas = tk.Canvas(root, height=500, width=700, bg="black")
 
+canvas2 = tk.Canvas(root, height=700, width=1000, bg='black')
+
 frame = tk.Frame(root, bg="#2b2b2b")
 
 ttlabel = tk.Label(frame, text=mlbl, bg="#2b2b2b", fg="white")
@@ -47,5 +49,15 @@ frame.place(relwidth=0.8, relheight=0.8, relx=0.1, rely=0.1)
 ttlabel.pack()
 inflabel.pack()
 progressbar.pack(padx=10,pady=10)
+
+if progressbar['value'] == 5:
+    time.sleep(1)
+    canvas.destroy()
+    frame.destroy()
+    ttlabel.destroy()
+    inflabel.destroy()
+    progressbar.destroy()
+
+    canvas2.pack()
 
 root.mainloop()
