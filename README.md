@@ -33,5 +33,6 @@ StryQ is not resposnible for any damage caused by project acturus x.
 - DDoS Tool by Mrdee
 - PyMC by StryQ
 - ZpyGame by StryQ
+  (bugfixes for ZpyGame coming soon)
 - more comming soon
 
