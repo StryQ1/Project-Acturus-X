@@ -16,9 +16,13 @@ https://discord.gg/VXkyqJ8gUM
 
 ## Installation
 
-```python
-Not done yet
+- Clone the repository using git.(make sure you have git installed properly)
+- Open a console and type:
+
+```batch
+git clone https://github.com/StryQ1/Project-Acturus-X
 ```
+- Open the cloned directory and enjoy :)
 
 ## Disclamer
 
